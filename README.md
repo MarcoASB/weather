@@ -10,8 +10,10 @@
   * Wind Speed (mph) vs. Latitude   :dash:
 
 * Tools: 
-  * [Citipy Python library](https://pypi.python.org/pypi/citipy), 
+  * [Citipy Python library](https://pypi.python.org/pypi/citipy)
   * [OpenWeatherMap API](https://openweathermap.org/api)
+  
+  ![Equator](Images/equatorsign.png)
 
 
 
