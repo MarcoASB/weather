@@ -9,7 +9,9 @@
   * Cloudiness (%) vs. Latitude   :cloud:
   * Wind Speed (mph) vs. Latitude   :dash:
 
-
+* Tools: 
+  * [Citipy Python library](https://pypi.python.org/pypi/citipy), 
+  * [OpenWeatherMap API](https://openweathermap.org/api)
 
 
 
