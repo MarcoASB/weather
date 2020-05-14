@@ -4,10 +4,10 @@
 
 * Visualization bye scatter plots of the weather of 600+ cities across the world radomly selected by coordinates (latutude and longitude) using **citipy**, to showcase the following relationships:
 
-* Temperature (F) vs. Latitude   :fire:
-* Humidity (%) vs. Latitude   :sweat_drops:
-* Cloudiness (%) vs. Latitude   :cloud:
-* Wind Speed (mph) vs. Latitude   :dash:
+  * Temperature (F) vs. Latitude   :fire:
+  * Humidity (%) vs. Latitude   :sweat_drops:
+  * Cloudiness (%) vs. Latitude   :cloud:
+  * Wind Speed (mph) vs. Latitude   :dash:
 
 
 
